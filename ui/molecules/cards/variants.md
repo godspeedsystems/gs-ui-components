@@ -1,6 +1,6 @@
 ```yaml
 componentName: Profile Card
-filename: DOCS_METADATA/molecules/godspeed-comp/profile-card
+filename: profile-card
 category: cards
 tags:
   - profile
@@ -10,7 +10,6 @@ tags:
   - figma:profile
 layout: card, vertical, centered
 primaryUse: Profile Display
-responsive: true
 description:
   A modern profile card with user image, name, role, and optional social links or actions.
   Suitable for team, testimonial, or author sections.
@@ -18,10 +17,12 @@ uses: landing and dashboard
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: service-card
-filename: DOCS_METADATA/molecules/godspeed-comp/service-card
+filename: service-card
 category: cards
 tags:
   - service
@@ -31,7 +32,6 @@ tags:
   - professional
 layout: vertical-horizontal
 primaryUse: Service Listing
-responsive: true
 description:
   A modern, responsive service card UI for showcasing services or professionals.
   Features a large vertical card and two horizontal cards, with image, title, rating,
@@ -41,4 +41,5 @@ uses: landing
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---

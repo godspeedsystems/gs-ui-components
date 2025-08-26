@@ -1,11 +1,9 @@
-
 ```yaml
 componentName: Header 1
-filename: DOCS_METADATA/molecules/godspeed-comp/header1
+filename: header1
 category: header
 relatedHero: hero1
 layout: single-column, centered
-responsive: true
 tags:
   - header
   - navigation
@@ -24,14 +22,15 @@ description: A clean, modern header with logo and navigation links. Suitable for
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Header 2
-filename: DOCS_METADATA/molecules/godspeed-comp/header2
+filename: header2
 category: header
 relatedHero: hero2
 layout: nav, single-column, centered
-responsive: true
 tags:
   - header
   - navigation
@@ -49,14 +48,15 @@ description: A header with navigation bar and prominent call-to-action button. R
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Header 3
-filename: DOCS_METADATA/molecules/godspeed-comp/header3
+filename: header3
 category: header
 relatedHero: hero3
 layout: sticky, nav, single-column
-responsive: true
 tags:
   - header
   - sticky
@@ -73,14 +73,15 @@ description: A sticky header with navigation, login, and call-to-action. Modern 
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Header 4
-filename: DOCS_METADATA/molecules/godspeed-comp/header4
+filename: header4
 category: header
 relatedHero: hero4
 layout: nav, split, image-left
-responsive: true
 tags:
   - header
   - navigation
@@ -96,14 +97,15 @@ description: A header with navigation and split layout, suitable for product sho
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Header 5
-filename: DOCS_METADATA/molecules/godspeed-comp/header5
+filename: header5
 category: header
 relatedHero: hero5
 layout: nav, centered, split
-responsive: true
 tags:
   - header
   - navigation
@@ -119,14 +121,15 @@ description: A centered header with navigation and split layout, modern and resp
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Header 6
-filename: DOCS_METADATA/molecules/godspeed-comp/header6
+filename: header6
 category: header
 relatedHero: hero6
 layout: nav, split
-responsive: true
 tags:
   - header
   - navigation
@@ -141,14 +144,15 @@ description: A header with navigation and split layout, paired with a hero card.
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Header 7
-filename: DOCS_METADATA/molecules/godspeed-comp/header7
+filename: header7
 category: header
 relatedHero: hero7
 layout: nav, split, video-background
-responsive: true
 tags:
   - header
   - navigation
@@ -165,4 +169,5 @@ description: A header with navigation and split layout, designed to pair with a 
 dependencies: [react]
 devDependencies: [typescript]
 ```
---- 
+
+---

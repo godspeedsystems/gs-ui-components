@@ -1,21 +1,22 @@
 ```yaml
 componentName: Featues Basic
-filename: DOCS_METADATA/molecules/godspeed-comp/features-basic
+filename: features-basic
 category: features
 tags:
   - features
 layout: basic
 primaryUse: Features Display
-responsive: true
 description: A clean and modern features/services section displaying multiple cards, each with an icon, title, and description. Fully responsive and ideal for showcasing offerings or key features of a product or business.
 uses: landing
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Features Grid
-filename: DOCS_METADATA/molecules/godspeed-comp/features-grid
+filename: features-grid
 category: features
 tags:
   - features
@@ -24,7 +25,6 @@ tags:
   - multi
 layout: grid, cards, multi-column
 primaryUse: Features Section
-responsive: true
 keywords:
   - figma:features
   - grid
@@ -34,10 +34,12 @@ uses: landing
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Features Icons
-filename: DOCS_METADATA/molecules/godspeed-comp/features-icon
+filename: features-icon
 category: features
 tags:
   - features
@@ -46,7 +48,6 @@ tags:
   - overview
 layout: grid, cards, icons
 primaryUse: Features Section
-responsive: true
 keywords:
   - figma:features
   - icons
@@ -56,10 +57,12 @@ uses: landing
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Features Tabs
-filename: DOCS_METADATA/molecules/godspeed-comp/features-tab
+filename: features-tab
 category: features
 tags:
   - features
@@ -68,7 +71,6 @@ tags:
   - switchable
 layout: tabs, interactive
 primaryUse: Features Section
-responsive: true
 keywords:
   - figma:features
   - tabs
@@ -78,10 +80,12 @@ uses: landing
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
+
 ```yaml
 componentName: Features Zigzag
-filename: DOCS_METADATA/molecules/godspeed-comp/features-zigzag
+filename: features-zigzag
 category: features
 tags:
   - features
@@ -90,7 +94,6 @@ tags:
   - image-text
 layout: zigzag, alternating, image-text
 primaryUse: Features Section
-responsive: true
 keywords:
   - figma:features
   - zigzag
@@ -100,4 +103,5 @@ uses: landing
 dependencies: [react]
 devDependencies: [typescript]
 ```
+
 ---
