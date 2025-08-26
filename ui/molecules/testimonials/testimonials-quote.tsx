@@ -1,4 +1,5 @@
-import React from 'react';
+import React from "react";
+import images from "../image";
 
 interface TestimonialsQuoteProps {
   quote?: string;
@@ -15,9 +16,9 @@ const TestimonialsQuote: React.FC<TestimonialsQuoteProps> = ({
   author = {
     name: "Alex Carter",
     role: "Product Designer, Xultions",
-    avatar: "/images/image4.jpeg"
+    avatar: images.image4,
   },
-  rating = 5
+  rating = 5,
 }) => {
   return (
     <div className="min-h-screen flex flex-col bg-gradient-to-br from-indigo-400/40 via-blue-300/40 to-purple-300/40">
@@ -34,18 +35,20 @@ const TestimonialsQuote: React.FC<TestimonialsQuoteProps> = ({
             "{quote}"
           </blockquote>
           <div className="flex items-center justify-center mt-4">
-            <img 
-              src={author.avatar} 
-              alt={author.name} 
+            <img
+              src={author.avatar}
+              alt={author.name}
               className="w-14 h-14 rounded-full border-2 border-white shadow mr-4"
               onError={(e) => {
                 const target = e.target as HTMLImageElement;
                 target.onerror = null;
-                target.src = 'https://via.placeholder.com/56';
+                target.src = "https://via.placeholder.com/56";
               }}
             />
             <div className="text-left">
-              <div className="font-semibold text-gray-900 text-lg">{author.name}</div>
+              <div className="font-semibold text-gray-900 text-lg">
+                {author.name}
+              </div>
               <div className="text-gray-700 text-sm">{author.role}</div>
             </div>
           </div>
