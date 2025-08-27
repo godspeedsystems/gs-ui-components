@@ -1,49 +1,145 @@
 atoms/buttons-actions
+    atoms/buttons-actions/variants.md
+
 atoms/navigation-elements
+    atoms/navigation-elements/variants.md
+
 atoms/toasts
+    atoms/toasts/variants.md
+
 atoms/layout-primitives
+    atoms/layout-primitives/variants.md
+
 atoms/status-indicators
+    atoms/status-indicators/variants.md
+
 atoms/media-identity
+    atoms/media-identity/variants.md
+
 atoms/visual-styling
+    atoms/visual-styling/variants.md
+
 atoms/slider-elements
+    atoms/slider-elements/variants.md
+
 atoms/layout-utilities
+    atoms/layout-utilities/variants.md
+
 atoms/form-helpers
+    atoms/form-helpers/variants.md
+
 atoms/modals-and-overlays
+    atoms/modals-and-overlays/variants.md
+
 atoms/data-display
+    atoms/data-display/variants.md
+
 atoms/progress-indicator
+    atoms/progress-indicator/variants.md
+
 atoms/icons-media
+    atoms/icons-media/variants.md
+
 atoms/progress-indicators
+    atoms/progress-indicators/variants.md
+
 atoms/status-tags
+    atoms/status-tags/variants.md
+
 atoms/inputs
+    atoms/inputs/variants.md
+
 
 molecules/comparision-tables
+    molecules/comparision-tables/variants.md
+
 molecules/footer
+    molecules/footer/variants.md
+
 molecules/market-data
+    molecules/market-data/variants.md
+
 molecules/forms
+    molecules/forms/variants.md
+
 molecules/bottom-navbar
+    molecules/bottom-navbar/variants.md
+
 molecules/testimonials
+    molecules/testimonials/variants.md
+
 molecules/sidebar-navigation
+    molecules/sidebar-navigation/variants.md
+
 molecules/analytics-insights
+    molecules/analytics-insights/variants.md
+
 molecules/trade
+    molecules/trade/variants.md
+
 molecules/faq
+    molecules/faq/variants.md
+
 molecules/cards
+    molecules/cards/variants.md
+
 molecules/listings
+    molecules/listings/variants.md
+
 molecules/features
+    molecules/features/variants.md
+
 molecules/contact-form
+    molecules/contact-form/variants.md
+
 molecules/slider
+    molecules/slider/variants.md
+
 molecules/modals
+    molecules/modals/variants.md
+
 molecules/social-people
+    molecules/social-people/variants.md
+
 molecules/kpi-cards
+    molecules/kpi-cards/variants.md
+
 molecules/layout-navigation
+    molecules/layout-navigation/variants.md
+
 molecules/profile-identity
+    molecules/profile-identity/variants.md
+
 molecules/topbar-header
+    molecules/topbar-header/variants.md
+
 molecules/subscribe-newsletter
+    molecules/subscribe-newsletter/variants.md
+
 molecules/hero
+    molecules/hero/variants.md
+
 molecules/data-tables
+    molecules/data-tables/variants.md
+
 molecules/hero-blocks
+    molecules/hero-blocks/variants.md
+
 molecules/sliders
+    molecules/sliders/variants.md
+
 molecules/notifications
+    molecules/notifications/variants.md
+
 molecules/input-selection
+    molecules/input-selection/variants.md
+
 molecules/header
+    molecules/header/variants.md
+
 molecules/content-preview
+    molecules/content-preview/variants.md
+
 molecules/auth-pages
+    molecules/auth-pages/variants.md
+
